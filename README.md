@@ -102,9 +102,13 @@ Step14. click on debug and simulate using simulation as shown below
 
 
 ## Output screen shots of proteus  :
+<img width="1920" height="1200" alt="Screenshot 2025-10-31 092023" src="https://github.com/user-attachments/assets/d602ad7f-a5c7-4c92-b5fd-a4f8296b37b5" />
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ <img width="1035" height="733" alt="Screenshot 2025-11-03 090454" src="https://github.com/user-attachments/assets/ffefd4c6-4408-4cd0-af6b-e401ec5e4e56" />
+
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
